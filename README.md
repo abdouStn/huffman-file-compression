@@ -20,6 +20,8 @@ A personal project that falls within the course named "GLIN303 - Introduction au
         
         ./huffman.py
 ### CONCEPTS
+  huffman Algorithm
+
   C data struct (struct)
   
   binary operator
