@@ -1,5 +1,5 @@
 # huffman-file-compression
-
+A personal project that falls within the course named "GLIN303 - Introduction aux systèmes et aux réseaux", taught under license 2 at the Faculty of Science of the University of Montpellier. 
 ### CODE RUNNING
 
 - Compilation :
@@ -9,11 +9,11 @@
 - RUN
   *  From the executable
   
-      ./huffman FILE OPTION  
+        ./huffman FILE OPTION  
 
-            FILE: the file to compress/decompress
+          FILE: the file to compress/decompress
 
-            OPTION: 1 to compress,  2 to decompress
+          OPTION: 1 to compress,  2 to decompress
 
 
   * From the Python script:
@@ -41,7 +41,7 @@
 
 Abdoulaye DIALLO
 
-      Group A
+       Group A
 
 ### TEACHER (s) 
   Pierre POMPIDOR
